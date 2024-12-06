@@ -1,0 +1,134 @@
+form {
+    margin: auto;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    width: 55%;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.582);
+}
+
+.head {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.list-field {
+    margin: 10px 10px 10px 10px;
+}
+
+.list-field label {
+    color: #356fbb;
+    font-weight: bold;
+}
+
+.payment-field {
+    border: 1px solid black;
+    width: 100%;
+    margin: auto;
+    margin-top: 80px;
+    border-radius: 5px;
+}
+
+.line-1 {
+    margin: 0px;
+    font-size: 60px;
+    color: rgb(13, 13, 172);
+    background-color: rgba(128, 128, 128, 0.226);
+    padding: 20px;
+}
+
+.line-1 sup {
+    color: rgb(13, 13, 172);
+    font-size: 30px
+}
+
+.line-1 .date {
+    font-size: 15px;
+    font-weight: bold;
+    display: inline-flex;
+    float: right;
+    color: rgba(0, 0, 0, 0.712);
+    margin-top: 25px;
+}
+
+.dropdown {
+    border: 1px solid black;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.Bank {
+    color: black;
+    font-size: 18px;
+    font-weight: bolder;
+    overflow: hidden;
+    transition: max-height 0.5;
+}
+
+select {
+    border-style: none;
+    cursor: pointer;
+    transition: max-height;
+}
+
+table {
+    border: 1px solid black;
+    border: none;
+    margin: auto;
+    margin-top: 15px;
+    overflow: hidden;
+    transition: max-height 0.5;
+}
+
+td {
+    width: 50%;
+    border: 1px solid;
+    border: none;
+    display: inline;
+}
+
+img {
+    width: 100px;
+    height: 80px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 20px;
+}
+
+.input-pay table {
+    width: 50%;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 20px;
+    padding: 0px;
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(78, 77, 77);
+    background: rgb(228, 227, 227);
+}
+
+.input-pay table input {
+    box-sizing: border-box;
+    padding: 10px;
+    width: 100%;
+    border-radius: 5px;
+}
+
+.btn {
+    width: 20%;
+    margin: 20px;
+    padding: 8px 10px;
+    font-size: 15px;
+    border: 1px solid #70acd3;
+    border-radius: 7px;
+    background: rgba(29, 63, 175, 0.884);
+    color: white;
+    font-weight: bold;
+    display: block;
+}
+
+.btn:hover {
+    cursor: pointer;
+}

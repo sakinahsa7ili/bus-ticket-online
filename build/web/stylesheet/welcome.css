@@ -1,0 +1,30 @@
+/* CSS styles for styling the page */
+body {
+    background-color: #796463;
+    margin: 0;
+    padding: 0;
+}
+
+.banner {
+    border-radius: 5px;
+    background-color: darksalmon;
+    padding: 20px;
+    margin: 20px;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+
+.but-on{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+p {
+    text-align: center;
+    color: red;
+}

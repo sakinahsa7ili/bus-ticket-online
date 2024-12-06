@@ -1,0 +1,96 @@
+/* CSS for styling */
+#bus-details {
+    width: 80%;
+    border-collapse: collapse;
+}
+
+#bus-details th,
+#bus-details td {
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #f2f2f2;
+}
+
+#bus-details th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04AA6D;
+    color: white;
+}
+
+form {
+    margin: auto;
+    width: 45%;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.582);
+}
+
+.head {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.list-field {
+    margin: 10px 10px 10px 10px;
+}
+
+.list-field label {
+    color: #356fbb;
+    font-weight: bold;
+}
+
+.list-field .table-list table {
+    margin: 5px 0px 60px 0px;
+    border-collapse: collapse;
+    width: 60%;
+}
+
+.list-field .table-list table th {
+    border: 1px solid rgba(158, 157, 157, 0.979);
+    padding: 5px 0px 5px 10px;
+    text-align: left;
+}
+
+table {
+    border: 1px solid black;
+    border: none;
+    margin: auto;
+    margin-top: 15px;
+    overflow: hidden;
+    transition: max-height 0.5;
+}
+
+.btn {
+    width: 20%;
+    margin: 20px;
+    padding: 8px 10px;
+    font-size: 15px;
+    border: 1px solid #70acd3;
+    border-radius: 7px;
+    background: rgba(29, 63, 175, 0.884);
+    color: white;
+    font-weight: bold;
+    display: block;
+}
+
+.but-on {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    background-color: #796463;
+    border: none;
+}
+
+button a {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    background-color: #f59931;
+    border: 3px solid white;
+    border-radius: 10px;
+    padding: 8px;
+}

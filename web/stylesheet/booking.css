@@ -1,0 +1,39 @@
+/* Form Styles */
+form {
+    width: 250px;
+    border-radius: 5px;
+    background-color: darksalmon;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+form .row {
+    margin-bottom: 20px;
+}
+
+form label {
+    color: white;
+}
+
+form select,
+form input[type="date"],
+form input[type="submit"] {
+    width: 100%;
+    padding: 8px;
+    border-radius: 5px;
+    border: none;
+}
+
+form input[type="date"]{
+    width: 95%;
+}
+
+form input[type="submit"] {
+    background-color: #796463;
+    color: white;
+    cursor: pointer;
+}
+
+td a{
+    color: green;
+}

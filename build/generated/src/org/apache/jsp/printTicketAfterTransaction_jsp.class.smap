@@ -1,0 +1,30 @@
+SMAP
+printTicketAfterTransaction_jsp.java
+JSP
+*S JSP
+*F
++ 0 printTicketAfterTransaction.jsp
+printTicketAfterTransaction.jsp
+*L
+1,12:58
+12:218,9
+12,32:71
+44:103,3
+45,7:106
+52,16:114
+67,7:130
+74:137,3
+75,4:140
+79:144,3
+80,8:147
+88:155,3
+89,4:158
+93:162,3
+94,3:165
+97:168,3
+98,5:171
+103:176,3
+104,6:179
+110,9:186
+118,6:195
+*E
